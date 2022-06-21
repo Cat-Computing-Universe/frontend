@@ -1,0 +1,12 @@
+/node_modules
+/dist
+
+/.vscode
+/.idea
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+$RECYCLE.BIN/
+*.lnk
